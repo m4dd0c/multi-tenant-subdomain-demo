@@ -1,0 +1,5 @@
+{
+  "name": "Cluvion",
+  "description": "A minimal Next.js App Router project demonstrating multi-tenant wildcard subdomain routing.",
+  "requestFramePermissions": []
+}
